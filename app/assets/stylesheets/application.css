@@ -44,3 +44,23 @@ td{
 .hia{
   margin-bottom: 10px;
 }
+
+.show1, .show2{
+  font-size: 13px;
+  margin:33px;
+}
+
+.show3, .edit3{
+  display:flex;
+}
+
+.show4, .edit4{
+  margin:0 3px;
+}
+
+.edit1, .edit2{
+  display:flex;
+  flex-flow:column;
+  margin-bottom: 10px;
+  width: 200px;
+}
