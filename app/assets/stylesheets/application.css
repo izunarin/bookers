@@ -13,3 +13,34 @@
  *= require_tree .
  *= require_self
  */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  margin: 33px;
+}
+
+
+.list p{
+  font-size:13px;
+  lane-height:18px;
+  margin:33px;
+}
+
+
+.box1{
+  font-size: 13px;
+  margin: 33px;
+}
+
+td{
+  padding:0 5px 7px 5px;
+}
+
+.hia{
+  margin-bottom: 10px;
+}
